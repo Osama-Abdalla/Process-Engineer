@@ -2,7 +2,7 @@
 
 Welcome to my project portfolio. I'm a process engineer with hands-on experience in **process simulation, optimization, heat integration, and process control**, using tools such as **Aspen HYSYS** and **MATLAB**.
 
----
+
 
 ## 🧪 Skills
 
@@ -12,7 +12,7 @@ Welcome to my project portfolio. I'm a process engineer with hands-on experience
 - **Process Control** — dynamic modeling and control strategy design
 - **MATLAB** — numerical simulation, data analysis, and modeling of process systems
 
----
+
 
 ## 📂 Projects Overview
 
@@ -23,10 +23,9 @@ Welcome to my project portfolio. I'm a process engineer with hands-on experience
 | MATLAB Simulations | [View Project](./matlab-simulations) |
 
 
----
 
 
----
+
 
 ## 📫 Contact
 
