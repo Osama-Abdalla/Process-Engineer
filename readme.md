@@ -16,11 +16,11 @@ Welcome to my project portfolio. I'm a process engineer with hands-on experience
 
 ## 📂 Projects Overview
 
-| Project | Link |
-|---------|------|
-| Production of Adipic Acid (Graduation Project) | [View Project](./) |
-| Pressure Swing vs. Entrainer Method for Anhydrous Ethanol | [View Project](./ethanol-dehydration-comparison) |
-| MATLAB Simulations | [View Project](./matlab-simulations) |
+| Project | 
+|---------|
+| Production of Adipic Acid (Graduation Project) |
+| Pressure Swing vs. Entrainer Method for Anhydrous Ethanol | 
+| MATLAB Simulations |
 
 
 
