@@ -24,39 +24,6 @@ Welcome to my project portfolio. I'm a process engineer with hands-on experience
 
 ---
 
-## 📂 Project Details
-
-### 1. Production of Adipic Acid
-Process design and simulation of adipic acid production. Covers reaction pathway, mass and energy balances, and equipment sizing considerations.
-
-**Highlights:**
-- Process flow diagram (PFD) development
-- Mass & energy balance calculations
-- [Add: yield, key equipment, or notable design decisions]
-
-📁 Folder: `/adipic-acid-production`
-
----
-
-### 2. Comparison of Pressure Swing Method vs. Entrainer Method for Production of Anhydrous Ethanol (Aspen HYSYS)
-A comparative simulation study evaluating two dehydration methods — **pressure swing distillation** and **entrainer-based (azeotropic/extractive) distillation** — for producing anhydrous ethanol.
-
-**Highlights:**
-- Aspen HYSYS simulation of both process routes
-- Comparison based on energy consumption, purity, and equipment requirements
-- Recommendation based on techno-economic/energy criteria
-
-📁 Folder: `/ethanol-dehydration-comparison`
-
----
-
-### 3. MATLAB Simulations
-A collection of MATLAB-based simulations supporting process analysis, optimization, and control studies.
-
-**Highlights:**
-- [Add: list specific simulations, e.g. reactor modeling, heat exchanger network optimization, PID control tuning]
-
-📁 Folder: `/matlab-simulations`
 
 ---
 
