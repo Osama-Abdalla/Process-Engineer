@@ -14,7 +14,7 @@ Welcome to my project portfolio. I'm a process engineer with hands-on experience
 
 
 
-## 📂 Projects Overview
+## 📂 Projects
 
 | Project | 
 |---------|
