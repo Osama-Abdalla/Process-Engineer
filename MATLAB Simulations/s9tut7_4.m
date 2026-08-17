@@ -1,0 +1,10 @@
+T=[231.07  240  260  280  300  320  340  360  380  400  420  440  460  480  500  520  540  560]; 
+K=[0.0114  0.0121  0.0139  0.0159  0.018  0.0202  0.0226  0.0252  0.0278  0.0306  0.0334  0.0363  0.0393  0.0424  0.0455  0.0487  0.0520  0.0553]; 
+P=polyfit(T,K,4); 
+K1=polyval(P,T); 
+plot(T,K1,T,K,'O'); 
+title('temperature & condactivity'); 
+xlabel('T(K)'); 
+ylabel('K(W/(m.K))'); 
+legend('third order interpolation','condactivity','location','Best'); 
+grid;

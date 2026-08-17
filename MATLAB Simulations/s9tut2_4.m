@@ -1,0 +1,10 @@
+tspan=[0 20];
+Y0=[1;3;0];
+[t,Y]=ode45(@rates_of_change,tspan,Y0);
+y=Y(:,1);
+z=Y(:,2);
+x=Y(:,3);
+ plot(t, y, 'b', t, z, 'y', t, x, 'r', 'LineWidth', 2);
+ legend('y(t)', 'z(t)', 'x(t)');
+ xlabel('Time (t)');
+ ylabel('Function values');

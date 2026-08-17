@@ -1,0 +1,11 @@
+R= [1.2 1.3 1.4 1.5 1.7 2]; 
+cost_w = [17820 18600 19410 20220 21870 24300]; 
+po = polyfit(R,cost_w,2); 
+R0 = 1:0.001:2; 
+cost_w1 = polyval(po,R0); 
+plot(R,cost_w,'o',R0,cost_w1); 
+legend('2nd order interpolation','Reflux'); 
+title('Reflux & cost'); 
+xlabel('Reflux'); 
+ylabel('cost ($)'); 
+disp(po);
