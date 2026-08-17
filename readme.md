@@ -30,5 +30,6 @@ Welcome to my project portfolio. I'm a process engineer with hands-on experience
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-abdalbagi-2081a2235)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:osamaabdalbagy2@gmail.com)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white) https://www.linkedin.com/in/osama-abdalbagi-2081a2235
+
+![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white) osamaabdalbagy2@gmail.com
