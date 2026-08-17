@@ -16,11 +16,12 @@ Welcome to my project portfolio. I'm a process engineer with hands-on experience
 
 ## 📂 Projects Overview
 
-| # | Project | Tool Used | Focus Area |
-|---|---------|-----------|------------|
-| 1 | Production of Adipic Acid | Process Simulation | Reaction & separation process design |
-| 2 | Pressure Swing vs. Entrainer Method for Anhydrous Ethanol | Aspen HYSYS | Distillation method comparison |
-| 3 | MATLAB Simulations | MATLAB | Optimization, heat integration, process control |
+| Project | Link |
+|---------|------|
+| Production of Adipic Acid | [View Project](./adipic-acid-production) |
+| Pressure Swing vs. Entrainer Method for Anhydrous Ethanol | [View Project](./ethanol-dehydration-comparison) |
+| MATLAB Simulations | [View Project](./matlab-simulations) |
+
 
 ---
 
@@ -28,4 +29,5 @@ Welcome to my project portfolio. I'm a process engineer with hands-on experience
 ---
 
 ## 📫 Contact
-[Add your LinkedIn / email / other links here]
+[![https://www.linkedin.com/in/osama-abdalbagi-2081a2235](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![osamaabdalbagy2@gmail.com](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
