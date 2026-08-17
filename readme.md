@@ -18,7 +18,7 @@ Welcome to my project portfolio. I'm a process engineer with hands-on experience
 
 | Project | Link |
 |---------|------|
-| Production of Adipic Acid (Graduation Project) | [View Project](./https://github.com/Osama-Abdalla/Process-Engineer/tree/main/Adipic%20Acid%20Production) |
+| Production of Adipic Acid (Graduation Project) | [View Project](./) |
 | Pressure Swing vs. Entrainer Method for Anhydrous Ethanol | [View Project](./ethanol-dehydration-comparison) |
 | MATLAB Simulations | [View Project](./matlab-simulations) |
 
